@@ -1,6 +1,6 @@
-# Price Tracker Notification System
+# Price Tracker Notification System 
 
-Welcome to the Price Tracker Notification System! This application allows users to monitor product prices on Amazon and receive email notifications when the prices drop below their desired threshold.
+This application allows users to monitor product prices on Amazon and receive email notifications when the prices drop below their desired threshold.
 
 ## Features
 
